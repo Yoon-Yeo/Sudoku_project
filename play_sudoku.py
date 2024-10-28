@@ -37,4 +37,4 @@ def play_sudoku():
         except ValueError:
             print("잘못된 입력입니다. 숫자를 입력하세요.")
 
-            #
+            
