@@ -13,4 +13,6 @@ def generate_sudoku():
             row.append(rand_int)
         puzzle.append(row)
 
-    return puzzle
+    return puzzle 
+
+    #
